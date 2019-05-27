@@ -92,7 +92,7 @@ font-family:sofia;
 	.fb{
 		font-family:allan;
 		font-size:30px;
-		color:black;
+		color:#ccfcff;
 		
 		position: absolute;
 		top:270px;
@@ -100,8 +100,7 @@ font-family:sofia;
 	}
 	.fb:hover
 	{
-	color:navyblue;
-		background-color:white;
+	background :rgba(183,185,185,.5);
 		-webkit-transform:scale(1.1);
 		-ms-transform: scale(1.1);
 		transform: scale(1.1);
@@ -110,7 +109,7 @@ font-family:sofia;
     .gm{
 		font-family:allan;
 		font-size:30px;
-		color:black;
+		color:#ccfcff;
 		
 		position: absolute;
 		top:360px;
@@ -118,8 +117,7 @@ font-family:sofia;
 	}
 	.gm:hover
 	{
-	color:navyblue;
-		background-color:white;
+	background :rgba(183,185,185,.5);
 		-webkit-transform:scale(1.1);
 		-ms-transform: scale(1.1);
 		transform: scale(1.1);
@@ -127,7 +125,7 @@ font-family:sofia;
 	.wp{
 		font-family:allan;
 		font-size:30px;
-		color:black;
+		color:#ccfcff;
 		
 		position: absolute;
 		top:450px;
@@ -135,8 +133,7 @@ font-family:sofia;
 	}
 	.wp:hover
 	{
-	color:navyblue;
-		background-color:white;
+	background :rgba(183,185,185,.5);
 		-webkit-transform:scale(1.1);
 		-ms-transform: scale(1.1);
 		transform: scale(1.1);
@@ -144,7 +141,7 @@ font-family:sofia;
 	.ig{
 		font-family:allan;
 		font-size:30px;
-		color:black;
+		color:#ccfcff;
 		
 		position: absolute;
 		top:540px;
@@ -152,8 +149,8 @@ font-family:sofia;
 	}
 	.ig:hover
 	{	
-		color:navyblue;
-		background-color:white;
+		
+		background :rgba(183,185,185,.5);
 		-webkit-transform:scale(1.1);
 		-ms-transform: scale(1.1);
 		transform: scale(1.1);
@@ -231,7 +228,8 @@ font-family:sofia;
  }
  #intro:hover
  {
-	background-color:grey;
+	background : rgba(182,185,185,.5) ;
+	
  	-webkit-transform:scale(1.1);
 		-ms-transform: scale(1.1);
 		transform: scale(1.1);
@@ -271,18 +269,18 @@ font-family:sofia;
 .dance
  {
  		font-family:allan;
-		font-size:50px;
+		font-size:30px;
 		color:#ccfcff;
 		
 		position: absolute;
-		top:250px;
+		top:270px;
 		left:100px;
 
  }
  .d{
  position: absolute;
-		top:70px;
-		left:30px;
+		top:50px;
+		left:10px;
  
  }
 .d:hover
@@ -295,18 +293,18 @@ font-family:sofia;
  .code
  {
  		font-family:allan;
-		font-size:50px;
+		font-size:30px;
 		color:#ccfcff;
 		
 		position: absolute;
-		top:250px;
+		top:270px;
 		left:600px;
 
  }
  .c{
  position: absolute;
-		top:70px;
-		left:30px;
+		top:50px;
+		left:10px;
  
  }
 	 .c:hover
@@ -319,7 +317,7 @@ font-family:sofia;
 	 .ball
  {
  		font-family:allan;
-		font-size:50px;
+		font-size:30px;
 		color:#ccfcff;
 		
 		position: absolute;
@@ -329,8 +327,8 @@ font-family:sofia;
  }
 .b{
  position: absolute;
-		top:70px;
-		left:30px;
+		top:50px;
+		left:10px;
  
  } 
 .b:hover
@@ -343,7 +341,7 @@ font-family:sofia;
 	 .sketch
  {
  		font-family:allan;
-		font-size:50px;
+		font-size:30px;
 		color:#ccfcff;
 		
 		position: absolute;
@@ -354,8 +352,8 @@ font-family:sofia;
  
 .sk{
  position: absolute;
-		top:70px;
-		left:30px;
+		top:50px;
+		left:10px;
  
  }
  .sk:hover
