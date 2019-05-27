@@ -58,7 +58,7 @@ p {font-family:calibre;
 		color:black;
 		
 		position: absolute;
-		top:500px;
+		top:450px;
 		left:80px;
 		text-align:center;
 	}
@@ -217,8 +217,8 @@ font-family:sofia;
  }
  #intro
  {
- 		font-family:italic;
-		font-size:40px;
+ 		font-family:allan;
+		font-size:30px;
 		color:#ccfcff;
 		border-width:20px;
 		border-radius:5px;
