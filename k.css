@@ -1,0 +1,366 @@
+h2 {color:white;
+   position:absolute;
+   top :150px;
+   font-size:50px;
+   left:100px;
+  }
+h2:hover {color:white;
+		background-color:navyblue;
+		-webkit-transform:scale(1.2);
+		-ms-transform: scale(1.2);
+		transform: scale(1.2);
+
+}   
+
+p {font-family:calibre;
+   color:white;
+   font-size:20px;}
+   
+  body {
+    background-image: url("l.jpg");
+    
+   background-size:  100%;
+   
+
+}
+
+
+#name{
+		font-family:allan;
+		font-size:60px;
+		color:white;
+		
+		position: absolute;
+		top:350px;
+		left:200px;
+	}
+	#name:hover
+	{
+		color:black;
+		-webkit-transform:scale(1.3);
+		-ms-transform: scale(1.3);
+		transform: scale(1.3);
+	}
+	
+	
+	h1{
+		font-size:50px;
+		opacity: 0.5;
+		font-family: 'Sofia';
+		position:absoulte;
+		top:150px;
+	}
+	
+	
+	#insti{
+		font-family:allan;
+		font-size:35px;
+		color:black;
+		
+		position: absolute;
+		top:500px;
+		left:80px;
+		text-align:center;
+	}
+	#insti:hover
+	{
+		color:white;
+		-webkit-transform:scale(1.2);
+		-ms-transform: scale(1.2);
+		transform: scale(1.2);
+	}
+	
+		
+	
+	#image{
+	position:absolute;
+	top:200px;
+	right:10px;
+	}
+
+#contacts{
+ position : absolute;
+ top:150px;
+left:50px;
+color:red;
+font-size:40px;
+font-family:sofia;
+
+
+}
+	
+	.fb{
+		font-family:allan;
+		font-size:30px;
+		color:black;
+		
+		position: absolute;
+		top:270px;
+		left:50px;
+	}
+	.fb:hover
+	{
+	color:navyblue;
+		background-color:white;
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+		
+    .gm{
+		font-family:allan;
+		font-size:30px;
+		color:black;
+		
+		position: absolute;
+		top:360px;
+		left:50px;
+	}
+	.gm:hover
+	{
+	color:navyblue;
+		background-color:white;
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+	.wp{
+		font-family:allan;
+		font-size:30px;
+		color:black;
+		
+		position: absolute;
+		top:450px;
+		left:50px;
+	}
+	.wp:hover
+	{
+	color:navyblue;
+		background-color:white;
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+	.ig{
+		font-family:allan;
+		font-size:30px;
+		color:black;
+		
+		position: absolute;
+		top:540px;
+		left:50px;
+	}
+	.ig:hover
+	{	
+		color:navyblue;
+		background-color:white;
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+	
+	.header{
+	width: 100%;
+	padding: 10px;
+	background:#060044;
+	position: fixed;
+	top: 0;
+	left:0;
+}
+
+.header::after{
+	
+	clear: both;
+	display: block;
+	visibility: none;
+}
+
+.list{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.list1{
+	float: right;
+}
+
+.list1 ul li{
+	display: inline-block;
+}
+
+.list1 ul li a{
+	margin:45px;
+	text-decoration: none;
+	color: white;
+}
+
+.list1 ul li a:hover{
+	color: blue;
+	background-color:white;}
+	
+.list1 ul li a:visiting {color:red;}
+
+
+.heading{
+ font-size:20px;
+ position:absolute;
+ top:80px;
+ left:20px;
+ right:20px;
+ 
+ }
+ #photo{
+ position:absolute;
+	top:200px;
+	right:10px;
+ 
+ }
+ #intro
+ {
+ 		font-family:italic;
+		font-size:40px;
+		color:#ccfcff;
+		border-width:20px;
+		border-radius:5px;
+		border-color:blue;
+		
+		position: absolute;
+		top:300px;
+		left:100px;
+
+ }
+ #intro:hover
+ {
+	background-color:grey;
+ 	-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+ }
+.kas:hover
+	{
+		
+		background-color:black;
+		
+		
+	}
+.iit:hover
+	{
+		background-color:white;
+		
+	}
+ #ac
+ {
+ 		font-family:allan;
+		font-size:20px;
+		color:#210291;
+		
+		position: absolute;
+		top:250px;
+		left:100px;
+
+ }
+ 
+#ac:hover
+	{
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+
+
+.dance
+ {
+ 		font-family:allan;
+		font-size:50px;
+		color:#ccfcff;
+		
+		position: absolute;
+		top:250px;
+		left:100px;
+
+ }
+ .d{
+ position: absolute;
+		top:70px;
+		left:30px;
+ 
+ }
+.d:hover
+	{
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+
+ .code
+ {
+ 		font-family:allan;
+		font-size:50px;
+		color:#ccfcff;
+		
+		position: absolute;
+		top:250px;
+		left:600px;
+
+ }
+ .c{
+ position: absolute;
+		top:70px;
+		left:30px;
+ 
+ }
+	 .c:hover
+	{
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+
+	 .ball
+ {
+ 		font-family:allan;
+		font-size:50px;
+		color:#ccfcff;
+		
+		position: absolute;
+		top:450px;
+		left:100px;
+
+ }
+.b{
+ position: absolute;
+		top:70px;
+		left:30px;
+ 
+ } 
+.b:hover
+	{
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
+
+	 .sketch
+ {
+ 		font-family:allan;
+		font-size:50px;
+		color:#ccfcff;
+		
+		position: absolute;
+		top:450px;
+		left:600px;
+
+ }
+ 
+.sk{
+ position: absolute;
+		top:70px;
+		left:30px;
+ 
+ }
+ .sk:hover
+	{
+		-webkit-transform:scale(1.1);
+		-ms-transform: scale(1.1);
+		transform: scale(1.1);
+	}
